@@ -18,8 +18,7 @@
 
 | 仓库 | 用途 |
 | :--- | :--- |
-| [pcb-images](https://github.com/LuminaryFixtures/pcb-images) | PCB/AOI、螺丝、焊点邻近图（由原 VistaCast/pcb-fixtures 迁入） |
-| [pcb](https://github.com/LuminaryFixtures/pcb) | 索引：指向 `pcb-images` |
+| [pcb-images](https://github.com/LuminaryFixtures/pcb-images) | PCB/AOI、螺丝、焊点邻近图（由原 VistaCast/pcb-fixtures 迁入；本机目录仍叫 `pcb/`） |
 | [surface](https://github.com/LuminaryFixtures/surface) | 铸造、磁瓦、Kolektor、BSData、ELPV、木板等表面缺陷 |
 | [site](https://github.com/LuminaryFixtures/site) | 绝缘子、CrackForest（更贴 SyncroBrain 现场视觉） |
 | [weld-tig-train](https://github.com/LuminaryFixtures/weld-tig-train) / [weld-tig-test](https://github.com/LuminaryFixtures/weld-tig-test) | TIG 铝焊训练/测试（已拆分，单仓 ≤10GB） |
